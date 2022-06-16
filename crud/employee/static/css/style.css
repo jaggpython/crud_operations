@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    height: 100%;
+    margin: 25px 0;
+    padding-left: 300px;
+}
+
+table,
+th,
+td {
+    border: 1px solid rgb(118, 200, 221);
+}
+
+tr:hover {
+    background-color: yellow;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+}
+
+button {
+    border-radius: 12px;
+    color: aqua;
+    background-color: #04AA6D;
+    cursor: pointer;
+}
